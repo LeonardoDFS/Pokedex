@@ -19,4 +19,3 @@ Proporcionar uma **experiência única** aos fãs de Pokémon, permitindo que na
 * **API:** PokéAPI para obter dados precisos e atualizados sobre os Pokémon.
 * **Design:** Material Design para uma experiência visual agradável.
 
-**[Visite a Pokedex](https://sua-pokedex.com)**
